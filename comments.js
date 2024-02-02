@@ -72,4 +72,4 @@ http.createServer(function (req, res) {
             comments.addComment(newComment);
             res.end();
         });
-    }
+    }}
